@@ -8,7 +8,7 @@
 
 <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=gb2312">
 
-<meta http-equiv="refresh" content="0.2;url=http://39.108.11.203:80">
+<meta http-equiv="refresh" content="0.2;url=http://yhq.reefine.cn">
 
 </head>
 
