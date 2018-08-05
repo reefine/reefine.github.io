@@ -6,7 +6,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="zh-CN">
-<meta http-equiv="refresh" content="0.2;url=http://yhq.reefine.cn/01/">
+<meta http-equiv="refresh" content="0.2;url=http://reefine.cn/01/">
 
 </head>
 
