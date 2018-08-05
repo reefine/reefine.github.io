@@ -6,8 +6,12 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="language" content="zh-CN">
-<meta http-equiv="refresh" content="0.2;url=http://reefine.cn/01/">
-
+<script>
+function gourl(){
+	window.location.href="http://reefine.cn";
+	}
+setTimeout("gourl()",0)
+</script>
 </head>
 
 <body>
